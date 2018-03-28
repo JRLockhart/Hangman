@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "letter_game", "letter_game\letter_game.pyproj", "{5152F5B1-1FD5-4FAF-8FAF-388C067C9206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5152F5B1-1FD5-4FAF-8FAF-388C067C9206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5152F5B1-1FD5-4FAF-8FAF-388C067C9206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C497E984-6372-4F95-A537-5B00A401695E}
+	EndGlobalSection
+EndGlobal
